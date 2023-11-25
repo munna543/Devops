@@ -6,3 +6,8 @@
 
 x = 1+2
 
+# substraction
+
+y = 3-1
+
+
