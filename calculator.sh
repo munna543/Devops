@@ -23,5 +23,9 @@ c = 5%2
 
 a = 6/2
 
+# Percentage
+
+c = 24%
+
 
 >>>>>>> megrgeexample
