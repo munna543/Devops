@@ -14,6 +14,14 @@ y = 3-1
 
 z = 1*5
 
+<<<<<<< HEAD
 # Modulus 
 
 c = 5%2
+=======
+# Divishion 
+
+a = 6/2
+
+
+>>>>>>> megrgeexample
