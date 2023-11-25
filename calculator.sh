@@ -10,4 +10,7 @@ x = 1+2
 
 y = 3-1
 
+# Multipication
+
+z = 1*5
 
